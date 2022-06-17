@@ -1,0 +1,14 @@
+[
+  {
+    "package": "flamingos",
+    "oncran": true
+  },
+  {
+    "package": "meteorits",
+    "oncran": true
+  },
+  {
+    "package": "samurais",
+    "oncran": true
+  }
+]
