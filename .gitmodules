@@ -8,11 +8,6 @@
 	url = https://github.com/fchamroukhi/flamingos
 	shallow = true
 	registered = true
-[submodule "meteorits"]
-	path = meteorits
-	url = https://github.com/fchamroukhi/meteorits
-	shallow = true
-	registered = true
 [submodule "samurais"]
 	path = samurais
 	url = https://github.com/fchamroukhi/samurais
