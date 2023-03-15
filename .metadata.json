@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "samurais",
+    "package": "meteorits",
     "oncran": true
   },
   {
-    "package": "meteorits",
+    "package": "samurais",
     "oncran": true
   }
 ]
